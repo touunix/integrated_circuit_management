@@ -5,9 +5,9 @@
 ## General information
 
 This is a strapi backend application, that is related to the Integrated Circuit Shop.
-That application enable to create orders, products and other basic things related to shop topic.
+That application enables to creation of orders, products and other basic things related to shop topic.
 
-Published application has created:
+A published application includes:
 
 - 5 Collection types: Order, Product, Regular Customer, Shipping, User
 - 2 created Orders
@@ -33,7 +33,7 @@ Run that application in development mode with this command:
 npm run develop
 ```
 
-At the login page, enter that credentials to interact with application as SuperAdmin user:
+At the login page, enter the credentials to interact with the application as a SuperAdmin user:
 
 ```
 Email: admin@gmail.com
@@ -46,68 +46,68 @@ Password: Admin123!
 
 ### Collection types
 
-1. Order
+1. Order <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/ac5f3c56-c143-429b-b63b-766c29c8aef8" width="90%"></img>
-2. Product
+2. Product <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/67bc2851-2c24-4d77-89ac-74893137b810" width="90%"></img>
-3. Regular Customer
+3. Regular Customer <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/3ac5aa35-df8c-452f-b85d-0e673ec5b2dd" width="90%"></img>
-4. Shipping
+4. Shipping <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/0fcee0fa-69b2-4029-809b-c2b427580fb1" width="90%"></img>
-5. User
+5. User <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/0088dfd6-65e3-4838-bf7f-099fc7a1d6cb" width="90%"></img>
 
 ### Orders
 
-1. AMD Order
+1. AMD Order <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/bcac9c79-8988-464c-8206-96c14e82c3f5" width="90%"></img>
-2. Intel Order
+2. Intel Order <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/de83223d-070f-4981-b78d-4c0be333d88d" width="90%"></img>
 
 ### Products
 
-1.  Integrated circuit MAX8556ETE+T
+1.  Integrated circuit MAX8556ETE+T <br/>
     <img src="https://github.com/touunix/Boologic/assets/79804729/142940fd-eaa1-4cb4-b75a-08df2d0a805c" width="90%"></img>
-2.  Integrated circuit ADA4091-2ARZ
+2.  Integrated circuit ADA4091-2ARZ <br/>
     <img src="https://github.com/touunix/Boologic/assets/79804729/56b0db1f-0612-4108-a898-973b3e4284d1" width="90%"></img>
-3.  Integrated circuit LT6100IMS8#PBF
+3.  Integrated circuit LT6100IMS8#PBF <br/>
     <img src="https://github.com/touunix/Boologic/assets/79804729/f0607759-dd4a-421e-bfd7-75fc348c291e" width="90%"></img>
-4.  Integrated circuit TLE8104EXUMA2
+4.  Integrated circuit TLE8104EXUMA2 <br/>
     <img src="https://github.com/touunix/Boologic/assets/79804729/b2a209f5-79a8-4f6e-ada7-59c17f83f504" width="90%"></img>
-5.  Integrated circuit LT1633CS#PBF
+5.  Integrated circuit LT1633CS#PBF <br/>
     <img src="https://github.com/touunix/Boologic/assets/79804729/6284a1de-d218-4064-aff3-0faa8c7ff9c6" width="90%"></img>
 
 ### Regular Customers
 
-1. Intel
+1. Intel <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/d1be6132-0d75-486d-ad9a-df69f3331741" width="90%"></img>
-2. AMD
+2. AMD <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/a02ee771-09a1-4315-a007-5510d94f6530" width="90%"></img>
 
 ### Shippings
 
-1. Personal Collection
+1. Personal Collection <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/4dc8233a-482d-4007-b4e3-1df8778fc8a2" width="90%"></img>
-2. InPost Parcel Machine
+2. InPost Parcel Machine <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/bd22d5e6-6d62-4df7-a11c-194c7f58c68e" width="90%"></img>
-3. Orlen Parcel Machine
+3. Orlen Parcel Machine <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/364b93b6-4114-43f2-b36d-89ca4775ac02" width="90%"></img>
-4. InPost Courier
+4. InPost Courier <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/e105c0f1-1a71-45b3-98ca-8fd0525a5954" width="90%"></img>
 
 ### Users
 
-1. AMD
+1. AMD <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/fe7c82af-9e0e-4fb1-9bf0-48ebbd6ceaa5" width="90%"></img>
-2. John Smith
+2. John Smith <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/1941329b-7754-4da2-9953-39f8f1a348bf" width="90%"></img>
-3. Boss
+3. Boss <br/>
    <img src="https://github.com/touunix/Boologic/assets/79804729/434a8294-ace7-4b0b-9fc5-7c4fe338c4cf" width="90%"></img>
 
 ### Roles for users
 
 1. Customer -> role to enable customers to view products and create orders.
-2. Company worker -> role for regular worker to enable basic actions of products category.
+2. Company worker -> role for the regular worker to enable basic actions of products category.
 3. Shop Manager -> role for Shop Manager to enable all actions related to content types.
 
 ---
@@ -116,11 +116,11 @@ Password: Admin123!
 
 Example with using `Postman` software.
 
-1. Login with a indentifier and password.
+1. Login with an identifier and password.
 
 ### AMD user
 
-- Enter the URL in the proper box, choose **POST** method:
+- Enter the URL in the proper box, and choose **POST** method:
 
 ```
 http://localhost:1337/api/auth/local
@@ -159,7 +159,7 @@ All those actions will guarantee that you will log in. On the output, there will
 
 ### John Smith User
 
-- Enter the URL in the proper box, choose **POST** method:
+- Enter the URL in the proper box, and choose **POST** method:
 
 ```
 http://localhost:1337/api/auth/local
@@ -198,7 +198,7 @@ All those actions will guarantee that you will log in. On the output, there will
 
 ### Boss User
 
-- Enter the URL in the proper box, choose **POST** method:
+- Enter the URL in the proper box, and choose **POST** method:
 
 ```
 http://localhost:1337/api/auth/local
@@ -239,13 +239,13 @@ All those actions will guarantee that you will log in. On the output, there will
 
 ### AMD user
 
-Mentioned user has assigned role `Customer`, so that user can perform actions like:
+The mentioned user has assigned the role `Customer` so that the user can perform actions like:
 
 - create order -> `POST /api/orders`
 - find product by ID -> `GET /api/products/:id`
 - find all products -> `GET /api/products`
 
-With saved authorization token from logging stage do following actions:
+With the saved authorization token from the logging stage do the following actions:
 
 - In the Authorization section, select `Type` Bearer Token and enter `Token` generated at the login action
 
@@ -371,7 +371,7 @@ http://localhost:1337/api/products
 
 ### John Smith user
 
-Mentioned user has assigned role `Company worker`, so that user can perform actions like:
+The mentioned user has been assigned the role of `Company worker` so that the user can perform actions like:
 
 - create product -> `POST /api/products`
 - delete product -> `DELETE /api/products/:id`
@@ -381,7 +381,7 @@ Mentioned user has assigned role `Company worker`, so that user can perform acti
 
 ### Boss user
 
-Mentioned user has assigned role `Shop Manager`, so that user can perform actions like:
+The mentioned user has been assigned the role of `Shop Manager` so that the user can perform actions like:
 
 - create order -> `POST /api/orders`
 - delete order -> `DELETE /api/orders/:id`
@@ -417,4 +417,4 @@ Mentioned user has assigned role `Shop Manager`, so that user can perform action
 
 ## More information
 
-For more details you can contact with **gdx167822@student.gdansk.merito.pl** or **touunix@gmail.com**
+For more details you can contact **gdx167822@student.gdansk.merito.pl** or **touunix@gmail.com**
